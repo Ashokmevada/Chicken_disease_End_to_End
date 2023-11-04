@@ -1,6 +1,6 @@
 from CNNClassifier.constants import *
 from CNNClassifier.utils.common import read_yaml , create_directories
-from CNNClassifier.entity.config_entity import DataIngestionConfig , PrepareBaseModelConfig
+from CNNClassifier.entity.config_entity import DataIngestionConfig , PrepareBaseModelConfig ,PrepareCallbacksConfig
 from pathlib import Path
 from CNNClassifier.utils.common import read_yaml , create_directories
 
